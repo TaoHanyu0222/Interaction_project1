@@ -77,8 +77,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-#frame1 {
+.frame1 {
 position: absolute;
-top: 1100px;
+top: 950px;
 left: 62px;
 }
