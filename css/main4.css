@@ -42,9 +42,9 @@ mix-blend-mode: color-dodge;
   position: absolute;
   top: 369px;
   left: 333px;
-  font-family: Helvetica;
-  font-weight: Light;
-  font-size: 144px;
+  font-family: Hiragino Sans;
+  font-weight: 200;
+  font-size: 120px;
   opacity: 1;
   text-align: left;
 }
