@@ -43,14 +43,15 @@ body {
 .v15_46 {
   width: 294px;
   color: rgba(0,0,0,1);
-  position: absolute;
-  top: 34px;
-  left: 717px;
+  position: fixed;
+  top: 43px;
+  left: 790px;
   font-family: STSong;
-  font-weight: Regular;
-  font-size: 29px;
-  opacity: 1;
+  font-weight: normal;
+  font-size: 20px;
+  opacity: 8;
   text-align: left;
+  letter-spacing: 0.825em;
 }
 .v15_47 {
   width: 894px;
