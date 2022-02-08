@@ -26,6 +26,7 @@ body {
   top: 592px;
   left: 1012px;
   overflow: hidden;
+  mix-blend-mode: exclusion;
 }
 .v15_16 {
   width: 294px;
@@ -75,4 +76,9 @@ body {
   font-size: 30px;
   opacity: 1;
   text-align: left;
+}
+.iframe1 {
+position: absolute;
+top: 1100px;
+left: 62px;
 }
