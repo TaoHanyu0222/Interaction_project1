@@ -41,16 +41,16 @@ body {
   letter-spacing: 0.825em;
 }
 .v15_34 {
-  width: 100%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 110px;
-  left: 49px;
-  font-family: Helvetica;
-  font-weight: Light;
-  font-size: 144px;
-  opacity: 1;
-  text-align: left;
+  width:1300px ;
+    color: rgba(0,0,0,1);
+    position: fixed;
+    top: 105px;
+    left: 62px;
+    font-family: Hiragino Sans ;
+    font-weight: 300;
+    font-size: 120px;
+    opacity: 1;
+    text-align: left;
 }
 .v15_35 {
   width: 894px;
