@@ -5,11 +5,11 @@ body {
   font-size: 14px;
 }
 .v2_4 {
-  width: 100%;
+  width: 1000px;
   height: 1117px;
   background: rgba(221,39,0,1);
   opacity: 1;
-  position: relative;
+  position: fixed;
   top: 0px;
   left: 0px;
   overflow: hidden;
@@ -17,7 +17,7 @@ body {
 .v15_6 {
   width: 100%;
   color: rgba(0,0,0,1);
-  position: absolute;
+  position: fixed;
   top: 105px;
   left: 62px;
   font-family: Helvetica;
@@ -29,7 +29,7 @@ body {
 .v15_9 {
   width: 294px;
   color: rgba(0,0,0,1);
-  position: absolute;
+  position: fixed;
   top: 43px;
   left: 717px;
   font-family: times;
@@ -41,7 +41,7 @@ body {
 .v15_14 {
   width: 511px;
   color: rgba(0,0,0,1);
-  position: absolute;
+  position: fixed;
   top: 1053px;
   left: 482px;
   font-family: Helvetica;
