@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_2 {
+  width: 100%;
+  height: 1117px;
+  background: rgba(221,39,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_3 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 84px;
+  left: 41px;
+  font-family: STSong;
+  font-weight: Regular;
+  font-size: 498px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_10 {
+  width: 511px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 52px;
+  left: 608px;
+  font-family: Helvetica;
+  font-weight: Light;
+  font-size: 29px;
+  opacity: 1;
+  text-align: center;
+}
