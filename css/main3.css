@@ -79,6 +79,11 @@ body {
 }
 #frame {
   position: absolute;
-  top: 800px;
+  top: 820px;
   left: 62px;
+}
+#frame1 {
+  position: absolute;
+  top: 820px;
+  left: 706px;
 }
