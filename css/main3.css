@@ -82,8 +82,8 @@ body {
   top: 820px;
   left: 62px;
 }
-#frame1 {
+.ins {
   position: absolute;
-  top: 820px;
-  left: 706px;
+  top: 670px;
+  left: 1006px;
 }
