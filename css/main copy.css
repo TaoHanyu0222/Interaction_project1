@@ -5,7 +5,7 @@ body {
   font-size: 14px;
 }
 .v2_4 {
-  width: 1000px;
+  width: 2000px;
   height: 1117px;
   background: rgba(221,39,0,1);
   opacity: 1;
@@ -15,14 +15,14 @@ body {
   overflow: hidden;
 }
 .v15_6 {
-  width: 100%;
+  width:1300px ;
   color: rgba(0,0,0,1);
   position: fixed;
   top: 105px;
   left: 62px;
-  font-family: Helvetica;
-  font-weight: lighter;
-  font-size: 144px;
+  font-family: Hiragino Sans ;
+  font-weight: 300;
+  font-size: 120px;
   opacity: 1;
   text-align: left;
 }
@@ -31,22 +31,24 @@ body {
   color: rgba(0,0,0,1);
   position: fixed;
   top: 43px;
-  left: 717px;
-  font-family: times;
+  left: 790px;
+  font-family: STSong;
   font-weight: normal;
-  font-size: 29px;
-  opacity: 1;
+  font-size: 20px;
+  opacity: 8;
   text-align: left;
+  letter-spacing: 0.825em;
 }
 .v15_14 {
   width: 511px;
   color: rgba(0,0,0,1);
   position: fixed;
-  top: 1053px;
-  left: 482px;
-  font-family: Helvetica;
-  font-weight: lighter;
+  top: 800px;
+  left: 1282px;
+  font-family: Hiragino Sans ;
+  font-weight: 150;
   font-size: 29px;
   opacity: 1;
   text-align: center;
+  letter-spacing: 0.605em;
 }
