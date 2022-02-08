@@ -56,11 +56,11 @@ body {
   width: 894px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 802px;
-  left: 76px;
-  font-family: Helvetica;
-  font-weight: Light;
-  font-size: 48px;
+  top: 852px;
+  left: 706px;
+  font-family: Hiragino Sans;
+  font-weight: 150;
+  font-size: 40px;
   opacity: 1;
   text-align: left;
 }
@@ -68,11 +68,11 @@ body {
   width: 894px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 852px;
-  left: 76px;
-  font-family: Helvetica;
-  font-weight: Light;
-  font-size: 48px;
+  top: 942px;
+  left: 706px;
+  font-family: Hiragino Sans;
+  font-weight: 150;
+  font-size: 40px;
   opacity: 1;
   text-align: left;
 }
