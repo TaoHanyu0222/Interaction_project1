@@ -21,7 +21,7 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  opacity: 1;
+  opacity: 0.5;
   position: absolute;
   top: 441px;
   left: 646px;
@@ -34,9 +34,9 @@ body {
   position: absolute;
   top: 96px;
   left: 44px;
-  font-family: Helvetica;
-  font-weight: Light;
-  font-size: 144px;
+  font-family: Hiragino Sans;
+  font-weight: 200;
+  font-size: 120px;
   opacity: 1;
   text-align: left;
 }
