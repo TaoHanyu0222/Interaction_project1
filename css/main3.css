@@ -30,7 +30,7 @@ body {
 .v15_16 {
   width: 294px;
   color: rgba(0,0,0,1);
-  position: absolute;
+  position: fixed;
   top: 43px;
   left: 790px;
   font-family: STSong;
@@ -43,7 +43,7 @@ body {
 .v15_34 {
   width:1300px ;
     color: rgba(0,0,0,1);
-    position: fixed;
+    position: absolute;
     top: 105px;
     left: 62px;
     font-family: Hiragino Sans ;
