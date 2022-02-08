@@ -59,9 +59,9 @@ body {
   position: absolute;
   top: 678px;
   left: 86px;
-  font-family: Helvetica;
-  font-weight: Light;
-  font-size: 48px;
+  font-family: Hiragino Sans;
+  font-weight: 150;
+  font-size: 30px;
   opacity: 1;
   text-align: left;
 }
