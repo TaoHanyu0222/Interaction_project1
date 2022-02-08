@@ -30,7 +30,7 @@ body {
 .v15_16 {
   width: 294px;
   color: rgba(0,0,0,1);
-  position: fixed;
+  position: absolute;
   top: 43px;
   left: 790px;
   font-family: STSong;
