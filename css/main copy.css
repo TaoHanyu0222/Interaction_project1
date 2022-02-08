@@ -21,7 +21,7 @@ body {
   top: 105px;
   left: 62px;
   font-family: Helvetica;
-  font-weight: Light;
+  font-weight: lighter;
   font-size: 144px;
   opacity: 1;
   text-align: left;
@@ -32,8 +32,8 @@ body {
   position: absolute;
   top: 43px;
   left: 717px;
-  font-family: STSong;
-  font-weight: Regular;
+  font-family: times;
+  font-weight: normal;
   font-size: 29px;
   opacity: 1;
   text-align: left;
