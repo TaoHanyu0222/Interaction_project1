@@ -57,10 +57,10 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 852px;
-  left: 706px;
+  left: 906px;
   font-family: Hiragino Sans;
   font-weight: 150;
-  font-size: 40px;
+  font-size: 30px;
   opacity: 1;
   text-align: left;
 }
@@ -69,10 +69,10 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 942px;
-  left: 706px;
+  left: 906px;
   font-family: Hiragino Sans;
   font-weight: 150;
-  font-size: 40px;
+  font-size: 30px;
   opacity: 1;
   text-align: left;
 }
